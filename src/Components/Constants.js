@@ -19,4 +19,4 @@ export const SUPPORTED_LANGUAGES = [
 
 
 
-export const GOOGLE_API = "AIzaSyAvdBnxk5e9o7swWFyLF0t5vULxTwlGSuI";
+export const GOOGLE_API = "AIzaSyCUf-0n9w5Jhk0yibHtNyLi47bib8uJ4EI";
